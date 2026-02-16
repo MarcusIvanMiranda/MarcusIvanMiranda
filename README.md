@@ -49,5 +49,5 @@ I specialize in building responsive, high-performance web applications. My focus
 
 ### 📫 Reach Out
 - 💬 Ask me about **React, Backend Logic, or Database Design.**
-- 📧 Reach me at **[your.email@example.com]**
-- 📄 Check out my [Portfolio](https://yourwebsite.com)
+- 📧 Reach me at **mmarcusivanmiranda@gmail.com**
+- 📄 Check out my [Portfolio](Coming Soon)
