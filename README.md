@@ -1,5 +1,5 @@
-# Hi, I'm Ivan! 👋
-### 🚀 Full-Stack Web Developer
+# Hi, I'm Marcus Ivan Miranda! 👋
+### 🚀 Web Developer
 
 <p align="left">
   <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
