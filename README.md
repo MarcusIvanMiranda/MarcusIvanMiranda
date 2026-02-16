@@ -35,16 +35,6 @@ I specialize in building responsive, high-performance web applications. My focus
 ![WinSCP](https://img.shields.io/badge/WinSCP-FFAB40?style=for-the-badge&logo=WinSCP&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-### 📊 GitHub Activity
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MarcusIvanMiranda&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusIvanMiranda&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 📫 Reach Out
 - 💬 Ask me about **React, Backend Logic, or Database Design.**
 - 📧 Reach me at **mmarcusivanmiranda@gmail.com**
