@@ -11,8 +11,8 @@
 ### 💻 About Me
 I specialize in building responsive, high-performance web applications. My focus is on writing clean, maintainable code and creating seamless user experiences.
 
-- 🔭 **Currently working on:** [Project Name] – A [Brief Description] built with [Tech Stack].
-- 🌱 **Currently learning:** Advanced [Framework, e.g., Next.js or TypeScript].
+- 🔭 **Currently working on:** PSAU Stay – A Hotel Management System built with C# with aspx.
+- 🌱 **Currently learning:** Advanced .NET.
 - 👯 **Collaboration:** I'm looking to help with Open Source web tools and UI libraries.
 - ⚡ **Fun Fact:** I spend as much time naming my variables as I do writing the actual logic.
 
